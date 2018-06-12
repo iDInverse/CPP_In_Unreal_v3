@@ -12,3 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/SoulCave/*
+Content/SoulCity/*
+Content/ParagonPhase/*
